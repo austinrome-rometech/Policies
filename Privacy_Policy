@@ -1,51 +1,36 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>SMS Privacy Policy — CapitolAlpha Alerts | Rome Tech &amp; Threads</title>
-<style>
-  body{font-family:Georgia,serif;max-width:760px;margin:0 auto;padding:2rem 1.25rem;color:#1a1a1a;line-height:1.65}
-  h1{font-size:1.6rem;border-bottom:2px solid #1a1a1a;padding-bottom:.5rem}
-  h2{font-size:1.15rem;margin-top:1.75rem}
-  .updated{color:#555;font-style:italic;font-size:.95rem}
-  footer{margin-top:2.5rem;border-top:1px solid #ccc;padding-top:1rem;font-size:.9rem;color:#555}
-</style>
-</head>
-<body>
-<h1>SMS Privacy Policy — CapitolAlpha Alerts</h1>
-<p class="updated">Program operated by Rome Tech &amp; Threads. Last updated: July 18, 2026</p>
+SMS PRIVACY POLICY — CAPITOLALPHA ALERTS
+Program operated by Rome Tech & Threads
+Last updated: July 18, 2026
 
-<h2>1. Overview</h2>
-<p>CapitolAlpha Alerts ("the Program") is a personal notification service operated by Rome Tech &amp; Threads that sends market-research alerts, simulated-trade approval requests, and related status notifications by SMS text message to individuals who have expressly opted in. This policy describes how we collect, use, and protect information in connection with the Program.</p>
+1. OVERVIEW
+CapitolAlpha Alerts ("the Program") is a personal notification service operated by Rome Tech & Threads that sends market-research alerts, simulated-trade approval requests, and related status notifications by SMS text message to individuals who have expressly opted in. This policy describes how we collect, use, and protect information in connection with the Program.
 
-<h2>2. Information We Collect</h2>
-<p>The Program collects only the information necessary to operate: the mobile phone number you provide when opting in, your consent record (date and method of opt-in), and the content and delivery metadata of messages sent and received (such as timestamps and reply keywords like YES, NO, STOP, or HELP).</p>
+2. INFORMATION WE COLLECT
+The Program collects only the information necessary to operate: the mobile phone number you provide when opting in, your consent record (date and method of opt-in), and the content and delivery metadata of messages sent and received (such as timestamps and reply keywords like YES, NO, STOP, or HELP).
 
-<h2>3. How We Use Your Information</h2>
-<p>Your mobile number and message data are used solely to deliver the notifications you requested, to process your replies and approvals, to honor opt-out requests, and to maintain records required for messaging compliance. We do not use your information for advertising or unrelated marketing.</p>
+3. HOW WE USE YOUR INFORMATION
+Your mobile number and message data are used solely to deliver the notifications you requested, to process your replies and approvals, to honor opt-out requests, and to maintain records required for messaging compliance. We do not use your information for advertising or unrelated marketing.
 
-<h2>4. No Sharing of Mobile Information</h2>
-<p><strong>No mobile information will be shared with third parties or affiliates for marketing or promotional purposes. All other categories exclude text messaging originator opt-in data and consent; this information will not be shared with, or sold to, any third parties.</strong> We share message data only with our SMS service provider (Twilio Inc.) strictly to transmit messages, and where required by law.</p>
+4. NO SHARING OF MOBILE INFORMATION
+No mobile information will be shared with third parties or affiliates for marketing or promotional purposes. All other categories exclude text messaging originator opt-in data and consent; this information will not be shared with, or sold to, any third parties. We share message data only with our SMS service provider (Twilio Inc.) strictly to transmit messages, and where required by law.
 
-<h2>5. Message Frequency</h2>
-<p>Message frequency varies based on market and news activity. You may receive up to approximately 10 messages per day during active periods, and fewer or none on quiet days.</p>
+5. MESSAGE FREQUENCY
+Message frequency varies based on market and news activity. You may receive up to approximately 10 messages per day during active periods, and fewer or none on quiet days.
 
-<h2>6. Fees</h2>
-<p><strong>Message and data rates may apply</strong> according to your mobile carrier plan. Rome Tech &amp; Threads does not charge for the messages themselves.</p>
+6. FEES
+Message and data rates may apply according to your mobile carrier plan. Rome Tech & Threads does not charge for the messages themselves.
 
-<h2>7. Opting Out and Help</h2>
-<p>You may opt out at any time by replying <strong>STOP</strong> to any message, after which you will receive a single confirmation message and no further texts. Reply <strong>HELP</strong> for assistance, or contact us at the email address below.</p>
+7. OPTING OUT AND HELP
+You may opt out at any time by replying STOP to any message, after which you will receive a single confirmation message and no further texts. Reply HELP for assistance, or contact us at the email address below.
 
-<h2>8. Data Retention and Security</h2>
-<p>Opt-in records and message logs are retained only as long as needed to operate the Program and meet compliance obligations, and are protected using industry-standard safeguards. You may request deletion of your data at any time using the contact below.</p>
+8. DATA RETENTION AND SECURITY
+Opt-in records and message logs are retained only as long as needed to operate the Program and meet compliance obligations, and are protected using industry-standard safeguards. You may request deletion of your data at any time using the contact below.
 
-<h2>9. Changes to This Policy</h2>
-<p>We may update this policy from time to time; the "Last updated" date above reflects the current version. Continued participation in the Program after changes constitutes acceptance.</p>
+9. CHANGES TO THIS POLICY
+We may update this policy from time to time; the "Last updated" date above reflects the current version. Continued participation in the Program after changes constitutes acceptance.
 
-<h2>10. Contact</h2>
-<p>Rome Tech &amp; Threads — Program Administrator<br>Email: austin.rome@rometechandthreads.com</p>
+10. CONTACT
+Rome Tech & Threads — Program Administrator
+Email: austin.rome@rometechandthreads.com
 
-<footer>See also: <a href="./sms-terms.html">SMS Terms &amp; Conditions</a></footer>
-</body>
-</html>
+See also: SMS Terms & Conditions (sms-terms.txt)
